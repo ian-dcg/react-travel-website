@@ -1,12 +1,12 @@
 ## Travel Website
 
 
-This project is a travel website made by me using React Js. 
+This project is a Travel Website made by me using React Js. 
 
 ## Project Status
 
 
-Homepage and all of it's frontend is complete. The other pages and backend in development.
+Homepage and all it's frontend is complete. The other pages and backend is in development.
 
 ## Screenshots
 
@@ -17,11 +17,11 @@ Homepage and all of it's frontend is complete. The other pages and backend in de
 <img src="/public/image3.png">
 
 
-## Installation and Setup Instructions
+## Installation and Setup
 
 #### Example:  
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine. (yarn can be used too)  
+Clone down this repository. You will need `node` and `npm` installed globally on your machine. (`yarn` can be used too)  
 
 Install dependencies:
 
