@@ -10,11 +10,17 @@ Homepage and all it's frontend is complete. The other pages and backend is in de
 
 ## Screenshots
 
-#### Exemple:   
+#### Navbar/Home:   
 
 <img src="/public/image1.png">
+
+#### Cards: 
+
 <img src="/public/image2.png">
-<img src="/public/image3.png">
+
+### Footer:
+
+<img src="/public/imagem3.png">
 
 
 ## Installation and Setup
@@ -34,6 +40,7 @@ To Start Server:
 Enter port:
 
 `localhost:3000`  
+
 
 
 #### Note: you can just simply acess the website through https://ian-dcg-travel-website.netlify.app/  
